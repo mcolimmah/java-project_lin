@@ -1,0 +1,5 @@
+*.err
+*.class
+*.log
+*.pdf
+*.out
